@@ -7,4 +7,5 @@ A personal profile for each member of the team. Include your name, where you are
 Draft a project charter.
 
 Sabian Coomber from Gisborne, studying at EIT.
+
 This information will later be migrated to the static website based on Github Pages as your project progresses.
