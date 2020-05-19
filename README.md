@@ -12,9 +12,9 @@ Sabian Coomber, Gisborne, Studying at EIT
 
 Shea Rolfe, Gisborne, Studying at EIT 
 
-Benjamin Tabudravu, Chilling, |Studying at EIT
+Benjamin Tabudravu, Gisborne, Studying at EIT
 
-Clark Boriga, Studying at EIT
+Clark Boriga, Gisborne, Studying at EIT
 
 ______________________________
 
