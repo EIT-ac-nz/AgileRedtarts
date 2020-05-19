@@ -49,19 +49,19 @@ Schedule Management:
 -Schedule was not made
  
 Activity Sequencing:
- -
+ 
 Testing documentation:
- -
+ 
 Pseudo-code:
- -
-GUI interfaces:
- -
-Configuration report:
- -
-Deployment documentation:
- -
 
-Maintenance:
+GUI Interfaces:
+
+Configuration report:
+
+Deployment documentation:
+ 
+
+Maintenance
 19/05/2020 - Benjamin, Updated the website 
 -Fixed CV link
 -Fixed  Progress to About page link
