@@ -37,15 +37,20 @@ Timeline: Project created. Starting on Project (We are here).
 Design brief / requirements / specifications document:
 
 -We will be designing a product which allows you and a friend (or multiple friends) to stream the same songs or playlists at the same time.
+
 -Information on how it works
  
 Work Breakdown Structure:
 -Discusses product we are developing
+
 -Designate jobs to each member of the group (bit late now)
+
 -Pseudo code for github repository
+
 -Design a concept in which the product is able to function
 
 Schedule Management:
+
 -Schedule was not made
  
 Activity Sequencing:
