@@ -1,20 +1,21 @@
 # HandsomeKnights (Formerly Gargling Giants)
 
-Stakeholder 1: Gary Wiener assigned to bigdix
+Stakeholders: 
+Gary Wiener assigned to bigdix
 
-Steven Tyrie, Gisborne, Eastern Institute of Technologies, Computernet+.
-
-Sabian Coomber from Gisborne, studying at EIT.
-
--Shea Rolfe - -NZ Gisborne-  -Studying at EIT-  -Agile Member-
+Steven Tyrie, Gisborne, Eastern Institute of Technologies, Computernet+
+Sabian Coomber, Gisborne, Studying at EIT
+Shea Rolfe,Gisborne, Studying at EIT 
+Benjamin Tabudravu, Chilling, |Studying at EIT
+Clark Boriga, Studying at EIT
 
 ______________________________
 
 PROJECT CHARTER
 
-Project Name: MP3 Broadcaster         | Date: Today
+Project Name: MP3 Broadcaster | Date: Today
 
-Project Members: Steven Tyrie, Sabian Coomber, Shea Rolfe
+Project Members: Steven Tyrie, Sabian Coomber, Shea Rolfe, Benjamin Tabudravu, Clark Boriga
 
 Project Sponsors: Daniel Ek - Co-founder and CEO of Spotify
 
