@@ -26,7 +26,7 @@ Purpose: To create a music application that allows users to broadcast their musi
 
 Description: The app plays and broadcasts music and stuff.
 
-Budget: $100,000,000 (ZWL)
+Budget: $50,000 NZD
 
 Project Risks: No one likes the app, Music Liscencing issues, copyright infringement.
 
