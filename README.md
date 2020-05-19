@@ -8,7 +8,7 @@ Steven Tyrie, Gisborne, Eastern Institute of Technologies, Computernet+
 
 Sabian Coomber, Gisborne, Studying at EIT
 
-Shea Rolfe,Gisborne, Studying at EIT 
+Shea Rolfe, Gisborne, Studying at EIT 
 
 Benjamin Tabudravu, Chilling, |Studying at EIT
 
