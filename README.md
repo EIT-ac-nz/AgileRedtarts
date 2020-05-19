@@ -4,6 +4,8 @@ Stakeholders:
 
 Gary Wiener assigned to bigdix
 
+Memebers:
+
 Steven Tyrie, Gisborne, Eastern Institute of Technologies, Computernet+
 
 Sabian Coomber, Gisborne, Studying at EIT
