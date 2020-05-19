@@ -1,12 +1,17 @@
 # HandsomeKnights (Formerly Gargling Giants)
 
 Stakeholders: 
+
 Gary Wiener assigned to bigdix
 
 Steven Tyrie, Gisborne, Eastern Institute of Technologies, Computernet+
+
 Sabian Coomber, Gisborne, Studying at EIT
+
 Shea Rolfe,Gisborne, Studying at EIT 
+
 Benjamin Tabudravu, Chilling, |Studying at EIT
+
 Clark Boriga, Studying at EIT
 
 ______________________________
