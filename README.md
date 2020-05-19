@@ -4,7 +4,7 @@ Stakeholders:
 
 Gary Wiener assigned to bigdix
 
-Memebers:
+Members:
 
 Steven Tyrie, Gisborne, Eastern Institute of Technologies, Computernet+
 
