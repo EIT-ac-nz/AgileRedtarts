@@ -2,7 +2,7 @@
 
 Stakeholder list/Company profile:
 
-Steven Tyrie, Gisborne, Eastern Institute of Technologies, Computernet+
+Steven Tyrie, Gisborne, Studying at EIT
 
 Sabian Coomber, Gisborne, Studying at EIT
 
